@@ -40,7 +40,7 @@ email: khy5630@snu.ac.kr
 avatar: assets/images/avatar.jpg
 
 # You'll want to customize url and baseurl for your own site:
-baseurl: "/blog" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://janeyeon.github.io" # the base hostname & protocol for your site
 
 # Social settings
