@@ -25,4 +25,4 @@ publications](/publications).
 - [Image restoration](https://janeyeon.github.io/colora/)
 - [Multi dimension output(3D, 4D)](https://janeyeon.github.io/ditto-nerf/)
 
-The best way to contact me is by email: [khy5630@snu.ac.kr](mailto:khy5630@snu.ac.kr).
+The best way to contact me is by email: [khy5630 at snu.ac.kr](mailto:khy5630@snu.ac.kr).
