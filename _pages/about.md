@@ -8,8 +8,6 @@ profile:
   align: right
   image: profile.jpeg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>ICL, Seoul National University</p>
 
 
 news: true  # includes a list of news items
