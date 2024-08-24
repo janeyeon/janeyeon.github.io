@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: AI and Mathematics Researcher at the University of Oxford
+subtitle: AI researcher at the Seoul National University
 
 profile:
   align: right
