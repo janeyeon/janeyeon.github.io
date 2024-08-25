@@ -21,8 +21,8 @@ You can [download my CV here]({% link /assets/pdf/CV.pdf %}).
 
 The following are broadly my current research interests. See also my [list of
 publications](/publications).
-- [Large scene generation](https://janeyeon.github.io/beyond-scene/)
-- [Image restoration](https://janeyeon.github.io/colora/)
-- [Multi dimension output(3D, 4D)](https://janeyeon.github.io/ditto-nerf/)
+- [Multimodal Generative AI](https://janeyeon.github.io/beyond-scene/)
+- [High-dimensional Generative AI](https://janeyeon.github.io/ditto-nerf/)
+- [Low-level Vision using pre-trained model.](https://janeyeon.github.io/colora/)
 
 The best way to contact me is by email: [khy5630 at snu.ac.kr](mailto:khy5630@snu.ac.kr).
