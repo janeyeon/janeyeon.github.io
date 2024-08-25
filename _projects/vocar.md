@@ -8,8 +8,6 @@ importance: 2
 category: App
 ---
 
-The AR learning vocabulary platform, vocAR, is an app that allows users to enjoy memorizing English vocabulary by actively utilizing various AI models and AR technology. 
-
 1. When the app is first launched, it allows users to add objects for new words. The LiDAR sensor attached to an iPad recognizes the surrounding environment through environment recognition, enabling the implementation of detailed AR. 
 2. After that, objects are recognized using MobileNet V2, and the classified label results are attached to the objects in 3D. 
 3. The app can also detect flat surfaces and load new 3D mesh models into the screen for learning. 
