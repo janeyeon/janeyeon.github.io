@@ -19,7 +19,7 @@
       {% if include.class %}class="{{ include.class }}"{% endif %}  
       width="{{ include.width | default: '1200px' }}" 
       height="{{ include.height | default: 'auto' }}" 
-      {% if include.min-width %}min-width="{{ include.min-width }}"{% endif %} 
+      {% if include.min-width %}min-width="{{ default: '1200px' }}"{% endif %} 
       {% if include.min-height %}min-height="{{ include.min-height }}"{% endif %} 
       {% if include.max-width %}max-width="{{ include.max-width }}"{% endif %} 
       {% if include.max-height %}max-height="{{ include.max-height }}"{% endif %} 

@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Corruption
-description: A javascript game in which you roam around the game's own code, killing viruses and eating yin-yangs. 
+title: Daily Bean - simplest journal 
+description: DailyBean is a simple diary app for those who want to record their daily lives easily. Record your day with just a few tabs!
 img: assets/img/corruption-screenshot.png
 github: https://github.com/SamAdamDay/corruption
 importance: 2
