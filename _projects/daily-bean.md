@@ -3,9 +3,9 @@ layout: page
 title: Daily Bean - simplest journal 
 description: DailyBean is a simple diary app for those who want to record their daily lives easily. Record your day with just a few tabs!
 img: assets/img/daily.gif
-redirect: https://apps.apple.com/us/app/dailybean-simplest-journal/id1553223828
+github: https://apps.apple.com/us/app/dailybean-simplest-journal/id1553223828
 importance: 2
-category: Fun
+category: App
 ---
 
 DailyBean is a simple diary app for those who want to record their daily lives easily. Record your day with just a few tabs!

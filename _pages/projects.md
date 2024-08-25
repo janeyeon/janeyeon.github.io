@@ -5,7 +5,7 @@ permalink: /projects/
 description: Here are a few of my projects.
 nav: true
 nav_order: 2
-display_categories: [Fun, Websites]
+display_categories: [App]
 horizontal: false
 ---
 

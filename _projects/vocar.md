@@ -1,14 +1,15 @@
 ---
 layout: page
 title: vocAR
-description: A javascript game in which you roam around the game's own code, killing viruses and eating yin-yangs. 
+description: The AR learning vocabulary platform, vocAR, is an app that allows users to enjoy memorizing English vocabulary by actively utilizing various AI models and AR technology.  
 img: assets/img/vocar.gif
-redirect: https://youtu.be/qNgbDYyPBcw?si=RQKs03tCWoQ5wWnk
+github: https://youtu.be/qNgbDYyPBcw?si=RQKs03tCWoQ5wWnk
 importance: 2
-category: Fun
+category: App
 ---
 
 The AR learning vocabulary platform, vocAR, is an app that allows users to enjoy memorizing English vocabulary by actively utilizing various AI models and AR technology. 
+
 1. When the app is first launched, it allows users to add objects for new words. The LiDAR sensor attached to an iPad recognizes the surrounding environment through environment recognition, enabling the implementation of detailed AR. 
 2. After that, objects are recognized using MobileNet V2, and the classified label results are attached to the objects in 3D. 
 3. The app can also detect flat surfaces and load new 3D mesh models into the screen for learning. 
