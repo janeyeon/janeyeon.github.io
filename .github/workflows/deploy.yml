@@ -20,7 +20,7 @@ jobs:
       uses: ruby/setup-ruby@v1
       with:
         ruby-version: '3.0.2'
-        bundler-cache: true
+        bundler-cache: false
     - name: Uninstall conflicting default gem
       run: gem uninstall uri -v 0.10.1 -x || true
     - name: Install deps
