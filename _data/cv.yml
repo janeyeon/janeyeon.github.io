@@ -9,14 +9,44 @@
 - title: Education
   type: time_table
   contents:
-    - title: M.S. in Electrical and Computer Engineering
+    - title: Ph.D. Student in Electrical and Computer Engineering
       institution: Seoul National University
-      year: 2023-(2024)
+      year: 2023-(2025)
       description:
         - Multimodal Generative AI (Text, Image, 3D), High- Dimensional Generative AI (<8K images, Video, 3D, 4D), Low-level Vision using pre-trained model (restoration, segmentation)
     - title: B.S. in Electrical and Computer Engineering
       institution: Seoul National University
       year: 2018–2023
+
+- title: Publications
+  type: list
+  contents:
+    - title: RoMaP: Robust 3D-Masked Part-level Editing in 3D Gaussian Splatting with Regularized Score Distillation Sampling
+      authors: Hayeon Kim*, Ji Ha Jang*, Se Young Chun
+      venue: ICCV 2025
+      link: https://arxiv.org/abs/2507.11061
+      project: https://github.com/janeyeon/romap
+    - title: CDAM: Class Distribution-induced Attention Map for Open-vocabulary Semantic Segmentations
+      authors: Dong Un Kang, Hayeon Kim, Se Young Chun
+      venue: ICLR 2025
+      link: https://openreview.net/pdf?id=CMqOfvD3tO
+      project: https://github.com/janeyeon/CDAM-CLIP
+    - title: BeyondScene: Higher-Resolution Human-Centric Scene Generation With Pretrained Diffusion
+      authors: Gwanghyun Kim*, Hayeon Kim*, Hoigi Seo*, Dong Un Kang*, Se Young Chun
+      venue: ECCV 2024
+      link: https://arxiv.org/abs/2404.04544
+      project: https://janeyeon.github.io/beyond-scene/
+    - title: Contribution-based Low-Rank Adaptation with Pre-training Model for Real Image Restoration
+      authors: Dongwon Park, Hayeon Kim, Se Young Chun
+      venue: ECCV 2024
+      link: https://arxiv.org/abs/2408.01099
+      project: https://janeyeon.github.io/colora/
+    - title: DITTO-NeRF: Diffusion-based Iterative Text To Omni-directional 3D Model
+      authors: Hoigi Seo*, Hayeon Kim*, Gwanghyun Kim*, Se Young Chun
+      venue: arXiv 2023
+      link: https://arxiv.org/abs/2304.02827
+      project: https://janeyeon.github.io/ditto-nerf/
+
 
 - title: Work Experience
   type: time_table
@@ -52,21 +82,7 @@
         - Creating Homepage - Designed the overall homepage and implemented responsive website with JavaScript, HTML and CSS5. 
 
 
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 2022
-      items: 
-        - Excellence Awards at Metaverse Developer Competition in Ministry of Science and ICT of Korea. 
-    - year: 2022
-      items: 
-        - Excellence Awards at Engineering Department Creative Design Fair in Seoul National University. 
-    - year: 2020
-      items: 
-        - Excellence Awards at XCORPS competition in Practical Issue Research. 
-    - year: 2017
-      items:
-        - Grand Prize at R&E competition in Korea Foundation for the Advancement of Science and Creativity. 
+
 
 - title: Academic Interests
   type: nested_list
