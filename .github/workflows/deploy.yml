@@ -21,6 +21,8 @@ jobs:
       with:
         ruby-version: '3.0.2'
         bundler-cache: true
+    - name: Uninstall conflicting default gem
+      run: gem uninstall uri -v 0.10.1 -x || true
     - name: Install deps
       run: |
         npm install -g mermaid.cli
