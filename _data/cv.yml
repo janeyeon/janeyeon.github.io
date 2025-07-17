@@ -19,33 +19,38 @@
       year: 2018–2023
 
 - title: Publications
-  type: list
+  type: time_table
   contents:
     - title: "RoMaP: Robust 3D-Masked Part-level Editing in 3D Gaussian Splatting with Regularized Score Distillation Sampling"
-      authors: "Hayeon Kim*, Ji Ha Jang*, Se Young Chun"
-      venue: "ICCV 2025"
-      link: https://arxiv.org/abs/2507.11061
-      project: https://github.com/janeyeon/romap
+      year: 2025
+      description:
+        - Authors: Hayeon Kim\*, Ji Ha Jang\*, Se Young Chun
+        - Venue: ICCV 2025
+        - <a href='https://arxiv.org/abs/2507.11061'>Paper</a> &nbsp; <a href='https://github.com/janeyeon/romap'>Project</a>
     - title: "CDAM: Class Distribution-induced Attention Map for Open-vocabulary Semantic Segmentations"
-      authors: "Dong Un Kang, Hayeon Kim, Se Young Chun"
-      venue: "ICLR 2025"
-      link: https://openreview.net/pdf?id=CMqOfvD3tO
-      project: https://github.com/janeyeon/CDAM-CLIP
+      year: 2025
+      description:
+        - Authors: Dong Un Kang, Hayeon Kim, Se Young Chun
+        - Venue: ICLR 2025
+        - <a href='https://openreview.net/pdf?id=CMqOfvD3tO'>Paper</a> &nbsp; <a href='https://github.com/janeyeon/CDAM-CLIP'>Project</a>
     - title: "BeyondScene: Higher-Resolution Human-Centric Scene Generation With Pretrained Diffusion"
-      authors: "Gwanghyun Kim*, Hayeon Kim*, Hoigi Seo*, Dong Un Kang*, Se Young Chun"
-      venue: "ECCV 2024"
-      link: https://arxiv.org/abs/2404.04544
-      project: https://janeyeon.github.io/beyond-scene/
+      year: 2024
+      description:
+        - Authors: Gwanghyun Kim\*, Hayeon Kim\*, Hoigi Seo\*, Dong Un Kang\*, Se Young Chun
+        - Venue: ECCV 2024
+        - <a href='https://arxiv.org/abs/2404.04544'>Paper</a> &nbsp; <a href='https://janeyeon.github.io/beyond-scene/'>Project</a>
     - title: "Contribution-based Low-Rank Adaptation with Pre-training Model for Real Image Restoration"
-      authors: "Dongwon Park, Hayeon Kim, Se Young Chun"
-      venue: "ECCV 2024"
-      link: https://arxiv.org/abs/2408.01099
-      project: https://janeyeon.github.io/colora/
+      year: 2024
+      description:
+        - Authors: Dongwon Park, Hayeon Kim, Se Young Chun
+        - Venue: ECCV 2024
+        - <a href='https://arxiv.org/abs/2408.01099'>Paper</a> &nbsp; <a href='https://janeyeon.github.io/colora/'>Project</a>
     - title: "DITTO-NeRF: Diffusion-based Iterative Text To Omni-directional 3D Model"
-      authors: "Hoigi Seo*, Hayeon Kim*, Gwanghyun Kim*, Se Young Chun"
-      venue: "arXiv 2023"
-      link: https://arxiv.org/abs/2304.02827
-      project: https://janeyeon.github.io/ditto-nerf/
+      year: 2023
+      description:
+        - Authors: Hoigi Seo\*, Hayeon Kim\*, Gwanghyun Kim\*, Se Young Chun
+        - Venue: arXiv 2023
+        - <a href='https://arxiv.org/abs/2304.02827'>Paper</a> &nbsp; <a href='https://janeyeon.github.io/ditto-nerf/'>Project</a>
 
 
 - title: Work Experience
