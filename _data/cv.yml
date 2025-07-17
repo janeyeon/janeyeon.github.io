@@ -24,34 +24,37 @@
     - title: "RoMaP: Robust 3D-Masked Part-level Editing in 3D Gaussian Splatting with Regularized Score Distillation Sampling"
       year: 2025
       description:
-        - Authors: Hayeon Kim\*, Ji Ha Jang\*, Se Young Chun
-        - Venue: ICCV 2025
-        - <a href='https://arxiv.org/abs/2507.11061'>Paper</a> &nbsp; <a href='https://github.com/janeyeon/romap'>Project</a>
+        - "<p><strong>Authors:</strong> Hayeon Kim*, Ji Ha Jang*, Se Young Chun</p>"
+        - "<p><strong>Venue:</strong> ICCV 2025</p>"
+        - "<a href='https://arxiv.org/abs/2507.11061'>Paper</a> &nbsp; <a href='https://github.com/janeyeon/romap'>Project</a>"
+
     - title: "CDAM: Class Distribution-induced Attention Map for Open-vocabulary Semantic Segmentations"
       year: 2025
       description:
-        - Authors: Dong Un Kang, Hayeon Kim, Se Young Chun
-        - Venue: ICLR 2025
-        - <a href='https://openreview.net/pdf?id=CMqOfvD3tO'>Paper</a> &nbsp; <a href='https://github.com/janeyeon/CDAM-CLIP'>Project</a>
+        - "<p><strong>Authors:</strong> Dong Un Kang, Hayeon Kim, Se Young Chun</p>"
+        - "<p><strong>Venue:</strong> ICLR 2025</p>"
+        - "<a href='https://openreview.net/pdf?id=CMqOfvD3tO'>Paper</a> &nbsp; <a href='https://github.com/janeyeon/CDAM-CLIP'>Project</a>"
+
     - title: "BeyondScene: Higher-Resolution Human-Centric Scene Generation With Pretrained Diffusion"
       year: 2024
       description:
-        - Authors: Gwanghyun Kim\*, Hayeon Kim\*, Hoigi Seo\*, Dong Un Kang\*, Se Young Chun
-        - Venue: ECCV 2024
-        - <a href='https://arxiv.org/abs/2404.04544'>Paper</a> &nbsp; <a href='https://janeyeon.github.io/beyond-scene/'>Project</a>
+        - "<p><strong>Authors:</strong> Gwanghyun Kim*, Hayeon Kim*, Hoigi Seo*, Dong Un Kang*, Se Young Chun</p>"
+        - "<p><strong>Venue:</strong> ECCV 2024</p>"
+        - "<a href='https://arxiv.org/abs/2404.04544'>Paper</a> &nbsp; <a href='https://janeyeon.github.io/beyond-scene/'>Project</a>"
+
     - title: "Contribution-based Low-Rank Adaptation with Pre-training Model for Real Image Restoration"
       year: 2024
       description:
-        - Authors: Dongwon Park, Hayeon Kim, Se Young Chun
-        - Venue: ECCV 2024
-        - <a href='https://arxiv.org/abs/2408.01099'>Paper</a> &nbsp; <a href='https://janeyeon.github.io/colora/'>Project</a>
+        - "<p><strong>Authors:</strong> Dongwon Park, Hayeon Kim, Se Young Chun</p>"
+        - "<p><strong>Venue:</strong> ECCV 2024</p>"
+        - "<a href='https://arxiv.org/abs/2408.01099'>Paper</a> &nbsp; <a href='https://janeyeon.github.io/colora/'>Project</a>"
+
     - title: "DITTO-NeRF: Diffusion-based Iterative Text To Omni-directional 3D Model"
       year: 2023
       description:
-        - Authors: Hoigi Seo\*, Hayeon Kim\*, Gwanghyun Kim\*, Se Young Chun
-        - Venue: arXiv 2023
-        - <a href='https://arxiv.org/abs/2304.02827'>Paper</a> &nbsp; <a href='https://janeyeon.github.io/ditto-nerf/'>Project</a>
-
+        - "<p><strong>Authors:</strong> Hoigi Seo*, Hayeon Kim*, Gwanghyun Kim*, Se Young Chun</p>"
+        - "<p><strong>Venue:</strong> arXiv 2023</p>"
+        - "<a href='https://arxiv.org/abs/2304.02827'>Paper</a> &nbsp; <a href='https://janeyeon.github.io/ditto-nerf/'>Project</a>"
 
 - title: Work Experience
   type: time_table
