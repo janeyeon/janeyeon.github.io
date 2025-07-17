@@ -21,29 +21,29 @@
 - title: Publications
   type: list
   contents:
-    - title: RoMaP: Robust 3D-Masked Part-level Editing in 3D Gaussian Splatting with Regularized Score Distillation Sampling
-      authors: Hayeon Kim*, Ji Ha Jang*, Se Young Chun
-      venue: ICCV 2025
+    - title: "RoMaP: Robust 3D-Masked Part-level Editing in 3D Gaussian Splatting with Regularized Score Distillation Sampling"
+      authors: "Hayeon Kim*, Ji Ha Jang*, Se Young Chun"
+      venue: "ICCV 2025"
       link: https://arxiv.org/abs/2507.11061
       project: https://github.com/janeyeon/romap
-    - title: CDAM: Class Distribution-induced Attention Map for Open-vocabulary Semantic Segmentations
-      authors: Dong Un Kang, Hayeon Kim, Se Young Chun
-      venue: ICLR 2025
+    - title: "CDAM: Class Distribution-induced Attention Map for Open-vocabulary Semantic Segmentations"
+      authors: "Dong Un Kang, Hayeon Kim, Se Young Chun"
+      venue: "ICLR 2025"
       link: https://openreview.net/pdf?id=CMqOfvD3tO
       project: https://github.com/janeyeon/CDAM-CLIP
-    - title: BeyondScene: Higher-Resolution Human-Centric Scene Generation With Pretrained Diffusion
-      authors: Gwanghyun Kim*, Hayeon Kim*, Hoigi Seo*, Dong Un Kang*, Se Young Chun
-      venue: ECCV 2024
+    - title: "BeyondScene: Higher-Resolution Human-Centric Scene Generation With Pretrained Diffusion"
+      authors: "Gwanghyun Kim*, Hayeon Kim*, Hoigi Seo*, Dong Un Kang*, Se Young Chun"
+      venue: "ECCV 2024"
       link: https://arxiv.org/abs/2404.04544
       project: https://janeyeon.github.io/beyond-scene/
-    - title: Contribution-based Low-Rank Adaptation with Pre-training Model for Real Image Restoration
-      authors: Dongwon Park, Hayeon Kim, Se Young Chun
-      venue: ECCV 2024
+    - title: "Contribution-based Low-Rank Adaptation with Pre-training Model for Real Image Restoration"
+      authors: "Dongwon Park, Hayeon Kim, Se Young Chun"
+      venue: "ECCV 2024"
       link: https://arxiv.org/abs/2408.01099
       project: https://janeyeon.github.io/colora/
-    - title: DITTO-NeRF: Diffusion-based Iterative Text To Omni-directional 3D Model
-      authors: Hoigi Seo*, Hayeon Kim*, Gwanghyun Kim*, Se Young Chun
-      venue: arXiv 2023
+    - title: "DITTO-NeRF: Diffusion-based Iterative Text To Omni-directional 3D Model"
+      authors: "Hoigi Seo*, Hayeon Kim*, Gwanghyun Kim*, Se Young Chun"
+      venue: "arXiv 2023"
       link: https://arxiv.org/abs/2304.02827
       project: https://janeyeon.github.io/ditto-nerf/
 
