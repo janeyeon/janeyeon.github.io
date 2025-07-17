@@ -23,6 +23,13 @@ jobs:
         bundler-cache: false
     - name: Uninstall conflicting default gem
       run: gem uninstall uri -v 0.10.1 -x || true
+    # ✅ bundler 수동 설치
+    - name: Install bundler
+      run: gem install bundler
+
+    # ✅ gem들을 수동 설치
+    - name: Install bundle dependencies
+      run: bundle install
     - name: Install deps
       run: |
         npm install -g mermaid.cli
